@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "name": "Kuna",
+    "species": "perro",
+    "age": 5,
+    "size": "pequeño",
+    "breed": "pincher",
+    "image": "https://imgs.search.brave.com/KmWcq1aYk_zbbDeJ-thYxYORGKrRsFEVSI69T3hUuOI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y2F0LWV5ZXMtcGhv/dG8uanBnP3dpZHRo/PTEwMDAmZm9ybWF0/PXBqcGcmZXhpZj0w/JmlwdGM9MA",
+    "color": "marron",
+    "characteristics": "obediente",
+    "date": "2021-02-21 18:46:00",
+  	"user": "saray"
+}
