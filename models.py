@@ -6,6 +6,11 @@ class User(BaseModel):
     name: str
     password: str
 
+class UserAccount(BaseModel):
+    name: str
+    aboutMe: str
+    profilePicture: str
+
 # Modelo de datos para posts
 class Post(BaseModel):
     id: str
